@@ -11,3 +11,5 @@ https://drive.google.com/drive/folders/1RFtuSodwpkCuqSzw4WLD5ug_mM9TPUmx?usp=sha
 * Seleccionar la base de datos y ejecutar el script del drive.
 
 ### Nota: El backend debe estar ejecutándose para que el Cliente o Administrador funcionen.
+
+Edición desde Org Prueba
